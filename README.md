@@ -418,7 +418,7 @@ One may use numba or C strings to write CUDA kernels.
 |default|lobanova_elizaveta|0.1671|3|
 |default|chervyakov_ivan|0.1709|9|
 |default|zinoviev_vladimir|0.1751|5|
-|default|smirnov_denis|0.1757|1|
+|default|smirnov_denis|0.1770|1|
 |**REF**|**REF**|**0.1864**|**-**|
 |default|pinegina_natalia|0.2180|7|
 |default|lukicheva_polina|0.2290|4|
